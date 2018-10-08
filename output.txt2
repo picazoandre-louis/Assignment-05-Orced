@@ -1,0 +1,17 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=64847:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\easto\IdeaProjects\Orc'ed\out\production\Orc'ed Main
+Enter intelligence level: 
+10
+142.72275675784775
+107.44064345551423
+62.765988124344425
+156.74872543349886
+122.25450365847963
+68.72249159143527
+145.12396797183538
+114.57533307780943
+65.06211570982244
+151.3620368539138
+The monster was dealt a total of 1136.7785626345014 damage after 10 turns.
+Intelligence level was 10.0.
+
+Process finished with exit code 0
